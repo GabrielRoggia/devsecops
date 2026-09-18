@@ -1,5 +1,5 @@
 import sqlite3
-
+#teste
 def conectar_banco():
     # ERRO DE SEGURANÇA 1 (SAST): Credencial exposta no código.
     # O SAST vai detectar a palavra 'password' recebendo uma string fixa.
